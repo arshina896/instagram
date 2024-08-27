@@ -1,0 +1,249 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    position: relative;
+}
+
+main {
+    position: absolute;
+}
+
+.phone-img {
+    width: 400px;
+    height: 550px;
+    position: absolute;
+    top: 20px;
+    left: 200px;
+}
+
+.phone-imgs {
+    position: relative;
+}
+
+.in-img1 {
+    width: 219px;
+    height: 385px;
+    position: absolute;
+    top: 106px;
+    left: 330px;
+}
+
+.in-img2 {
+    width: 219px;
+    height: 385px;
+    position: absolute;
+    top: 106px;
+    left: 330px;
+    opacity: 0.6;
+}
+
+.in-img3 {
+    width: 219px;
+    height: 385px;
+    position: absolute;
+    top: 106px;
+    left: 330px;
+    opacity: 0.7;
+}
+
+.in-img4 {
+    width: 219px;
+    height: 385px;
+    position: absolute;
+    top: 106px;
+    left: 330px;
+    border: 2px solid;
+    opacity: 0.7;
+}
+
+
+.log-sec {
+    width: 400px;
+    height: 350px;
+    border: 2px solid;
+    box-shadow: 1px 1px 0px 1px rgb(199, 188, 188);
+    position: relative;
+    top: 40px;
+    left: 700px;
+    border-color: rgb(198, 195, 195);
+}
+
+.logo {
+    width: 100px;
+    height: 40px;
+    position: relative;
+    top: 20px;
+    left: 150px;
+    
+}
+
+.inp1 {
+    width: 300px;
+    height: 30px;
+    border-radius: 3px grey;
+    position: relative;
+    top: 20px;
+    left: 50px;
+    padding: 20px;
+}
+.inp1:focus{
+    background-color: rgb(194, 218, 242); 
+}
+
+
+.inp2 {
+    width: 300px;
+    height: 30px;
+    border-radius: 5px grey;
+    position: relative;
+    top: 25px;
+    left: 50px;
+    padding: 20px;
+}
+.inp2:focus{
+    background-color: rgb(194, 218, 242); 
+}
+
+form {
+    padding: 5px;
+    position: absolute;
+
+}
+
+.btn1 {
+    width: 70px;
+    height: 32px;
+    border-radius: 5px;
+    position: relative;
+    top: 33px;
+    right: 25px;
+    padding: 20px;
+    background-color: rgb(237, 237, 246);
+    border-style: none;
+}
+
+.btn2 {
+    position: relative;
+    width: 300px;
+    height: 35px;
+    top: 40px;
+    left: 50px;
+    border-radius: 7px;
+    background-color: rgb(74, 144, 205);
+    color: white;
+    border-style: none;
+}
+
+.or {
+    position: absolute;
+    width: 300px;
+    left: 60px;
+    top: 230px;
+    color: grey;
+}
+.fb-logo{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 120px;
+    top: 260px;
+}
+.p1{
+    position: absolute;
+    top:260px;
+    left:150px;
+    color: blue;
+}
+.p2{
+    position: absolute;
+    top:300px;
+    left: 130px;
+    color: blue;
+} 
+.lst-sec  {
+    
+        width: 400px;
+        height: 70px;
+        border: 2px solid;
+        position: relative;
+        left:  700px;
+        top: 60px;
+        background-color: white;
+        border-color: rgb(198, 195, 195);
+        box-shadow: 1px 1px 0px 1px rgb(199, 188, 188); 
+}
+.p3{
+    position: absolute;
+    left: 100px;
+    top: 20px;
+
+}
+.a1{
+    text-decoration: none;
+    position: absolute;
+    right: 90px;
+    top: 20px;
+}
+.se3{
+    width: 425px;
+    height: 90px;
+    border: 2px solid;
+    position: relative;
+   left: 800px;
+   top: 60px;
+    border-style: none;
+
+}
+a{
+    text-decoration: none;
+}
+.p4{
+    position: relative;
+    top: 20px;
+    left: 60px;
+}
+.img4{
+    position: relative;
+    width: 150px;
+    height: 40px;
+    top: 40px;
+    right: 50px;
+}
+.img5{
+    width:150px;
+    height: 40px;
+    position: relative;
+    top:40px;
+    right: 40px;
+
+}
+footer{
+    position: absolute; 
+    top: 600px;
+    left: 300px;
+}
+
+.ftr{
+    position: relative;
+    font-size: 20px;
+    color: gray;
+}
+.ftr1{
+    position: relative;
+    left: 100px;
+    top: 10px;
+    font-size: 20px;
+    color: gray;
+}
+
+.copyright{
+    position: relative;
+    left: 230px;
+    top: 30px;
+    font-size: 20px;
+    color: gray;
+}
